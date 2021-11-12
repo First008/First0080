@@ -3,6 +3,13 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "First008",
+    "gophercon-jwt-repo",
+    "bz-manifest-gen",
+    "bulut-zincir",
+    "ethereum-contract-examples",
+    "contract-validator",
+    "Passcont",
+    "Video2FrameConverter"
   ]
 }
