@@ -69,22 +69,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/First008/First0080/tree/master/readme/421063547/year.md">
-				bulut-zincir
-			</a>
-		</td>
-		<td>
-			2022/3/3 1:35 AM UTC
-		</td>
-		<td>
-			9
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/First008/First0080/raw/master/graph/421063547/small/year.png" height="20"> 41
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/First008/First0080/tree/master/readme/385502222/year.md">
 				ethereum-contract-examples
 			</a>
@@ -149,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/5 1:26 AM UTC</i></small>
+<small><i>Last updated on 2022/3/5 6:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
