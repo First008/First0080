@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/2 2:18 AM UTC
+			2022/5/3 2:12 AM UTC
 		</td>
 		<td>
 			25
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/2 2:18 AM UTC
+			2022/5/3 2:12 AM UTC
 		</td>
 		<td>
 			8
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/2 2:18 AM UTC
+			2022/5/3 2:12 AM UTC
 		</td>
 		<td>
 			3
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/2 2:19 AM UTC
+			2022/5/3 2:12 AM UTC
 		</td>
 		<td>
 			10
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/2 2:19 AM UTC
+			2022/5/3 2:12 AM UTC
 		</td>
 		<td>
 			5
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/2 2:19 AM UTC
+			2022/5/3 2:12 AM UTC
 		</td>
 		<td>
 			3
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/2 2:19 AM UTC
+			2022/5/3 2:12 AM UTC
 		</td>
 		<td>
 			4
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/2 2:19 AM UTC
+			2022/5/3 2:13 AM UTC
 		</td>
 		<td>
 			6
@@ -149,7 +149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/5/4 6:30 PM UTC</i></small>
+<small><i>Last updated on 2022/5/5 2:00 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
