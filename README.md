@@ -37,22 +37,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/First008/First0080/tree/master/readme/422092179/year.md">
-				gophercon-jwt-repo
-			</a>
-		</td>
-		<td>
-			2022/10/5 2:27 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/First008/First0080/raw/master/graph/422092179/small/year.png" height="20"> 35
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/First008/First0080/tree/master/readme/421164512/year.md">
 				bz-manifest-gen
 			</a>
@@ -149,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/7 2:37 AM UTC</i></small>
+<small><i>Last updated on 2022/10/7 6:43 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
